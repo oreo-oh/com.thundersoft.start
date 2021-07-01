@@ -1,0 +1,14 @@
+com/thundersoft/start/springboot/web/IndexControllerTest.java
+ com.thundersoft.start.springboot.web.IndexControllerTest
+com/thundersoft/start/springboot/web/HelloControllerTest.java
+ com.thundersoft.start.springboot.web.HelloControllerTest
+com/thundersoft/start/springboot/domain/posts/PostsRepositoryTest.java
+ com.thundersoft.start.springboot.domain.posts.PostsRepositoryTest
+com/thundersoft/start/springboot/Application.java
+ com.thundersoft.start.springboot.Application
+com/thundersoft/start/springboot/web/dto/HelloResponseDtoTest.java
+ com.thundersoft.start.springboot.web.dto.HelloResponseDtoTest
+com/thundersoft/start/springboot/domain/BaseTimeEntityTest.java
+ com.thundersoft.start.springboot.domain.BaseTimeEntityTest
+com/thundersoft/start/springboot/web/PostsApiControllerTest.java
+ com.thundersoft.start.springboot.web.PostsApiControllerTest
